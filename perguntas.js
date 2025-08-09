@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Russia?',
+    'A capital da Russia é Moscou'
 )
 
 criaCartao(
@@ -17,14 +17,14 @@ criaCartao(
 )
 criaCartao(
     'História',
-    'Qual o nome do livro que Hitler escreveu?',
-    'Mein Kampf.'
+    'Qual país entrou no final da 1 guerra mundial?',
+    'Estados Unidos'
 )
 
 criaCartao(
     'Biologia',
-    'Qual é a Biotecnologia que envolve Medicina?',
-    'É a Biotecnologia Vermelha.'
+    'Qual é a Biotecnologia que envolve o Bioterrorismo?',
+    'É a Biotecnologia Preta .'
 )
 
 criaCartao(
@@ -35,8 +35,8 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-    'Qual a raiz quadrada de 64?',
-    'A raiz  quadrada de 64, é 8.'
+    'Qual a raiz quadrada de 81?',
+    'A raiz  quadrada de 81, é 9.'
 )
 criaCartao(
     'Língua Portuguesa',
@@ -46,6 +46,6 @@ criaCartao(
 
 criaCartao(
     'Inglês',
-    'Como se fala país em Inglês?',
-    'Em Inglês a palavra país se fala country(comtrui).'
+    'Como se fala rosa em Inglês?',
+    'Em Inglês a cor rosa se fala pink.'
 )
